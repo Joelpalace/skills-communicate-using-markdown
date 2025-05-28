@@ -14,5 +14,7 @@ const myVar = "Hello, world!";
 ``` python
 let key == "Communication"
 ```
-
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
 
